@@ -10,3 +10,15 @@
 /Users/rjensen/Developer/GitHub/rjensen/AccountsReceivableVariance/PDF-to-XLSX Converter/PDF-to-XLSX Converter/obj/Debug/net472/PDF-to-XLSX Converter.exe
 /Users/rjensen/Developer/GitHub/rjensen/AccountsReceivableVariance/PDF-to-XLSX Converter/PDF-to-XLSX Converter/obj/Debug/net472/PDF-to-XLSX Converter.pdb
 /Users/rjensen/Developer/GitHub/rjensen/AccountsReceivableVariance/PDF-to-XLSX Converter/PDF-to-XLSX Converter/bin/Debug/net472/Microsoft.Office.Interop.Excel.dll
+E:\Development\PdfConverter\PDF-to-XLSX Converter\bin\Debug\net472\PDF-to-XLSX Converter.exe.config
+E:\Development\PdfConverter\PDF-to-XLSX Converter\bin\Debug\net472\PDF-to-XLSX Converter.exe
+E:\Development\PdfConverter\PDF-to-XLSX Converter\bin\Debug\net472\PDF-to-XLSX Converter.pdb
+E:\Development\PdfConverter\PDF-to-XLSX Converter\bin\Debug\net472\itextsharp.dll
+E:\Development\PdfConverter\PDF-to-XLSX Converter\bin\Debug\net472\Microsoft.Office.Interop.Excel.dll
+E:\Development\PdfConverter\PDF-to-XLSX Converter\obj\Debug\net472\PDF-to-XLSX Converter.csprojAssemblyReference.cache
+E:\Development\PdfConverter\PDF-to-XLSX Converter\obj\Debug\net472\PDF-to-XLSX Converter.AssemblyInfoInputs.cache
+E:\Development\PdfConverter\PDF-to-XLSX Converter\obj\Debug\net472\PDF-to-XLSX Converter.AssemblyInfo.cs
+E:\Development\PdfConverter\PDF-to-XLSX Converter\obj\Debug\net472\PDF-to-XLSX Converter.csproj.CoreCompileInputs.cache
+E:\Development\PdfConverter\PDF-to-XLSX Converter\obj\Debug\net472\PDF-to-XLSX Converter.csproj.CopyComplete
+E:\Development\PdfConverter\PDF-to-XLSX Converter\obj\Debug\net472\PDF-to-XLSX Converter.exe
+E:\Development\PdfConverter\PDF-to-XLSX Converter\obj\Debug\net472\PDF-to-XLSX Converter.pdb

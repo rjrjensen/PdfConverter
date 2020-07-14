@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Aqp9ITVEh91xhtBVoJL6IKlK0NpbRJBrTMHxbPXzr5dKNIpXNeem23KQwGyds9x/q/GOPBT83lkA6zG8hXkERA==",
+  "dgSpecHash": "gegp1pSMM0UDjD7g7u91oTJSg7UuDc0sbBe8HITvzWUC+xvABmFI/lHky95PMWvajMjvFJ2l26FKZ6+4+Df61g==",
   "success": true,
-  "projectFilePath": "/Users/rjensen/Developer/GitHub/rjensen/AccountsReceivableVariance/PDF-to-XLSX Converter/PDF-to-XLSX Converter/PDF-to-XLSX Converter.csproj",
+  "projectFilePath": "E:\\Development\\PdfConverter\\PDF-to-XLSX Converter\\PDF-to-XLSX Converter.csproj",
   "expectedPackageFiles": [
-    "/Users/rjensen/.nuget/packages/itextsharp/5.5.13.1/itextsharp.5.5.13.1.nupkg.sha512",
-    "/Users/rjensen/.nuget/packages/microsoft.office.interop.excel/15.0.4795.1000/microsoft.office.interop.excel.15.0.4795.1000.nupkg.sha512"
+    "C:\\Users\\junea\\.nuget\\packages\\itextsharp\\5.5.13.1\\itextsharp.5.5.13.1.nupkg.sha512",
+    "C:\\Users\\junea\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1000\\microsoft.office.interop.excel.15.0.4795.1000.nupkg.sha512"
   ],
   "logs": []
 }

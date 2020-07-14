@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rjensen/Developer/GitHub/rjensen/AccountsReceivableVariance/PDF-to-XLSX Converter/PDF-to-XLSX Converter/PDF-to-XLSX Converter.csproj": {}
+    "E:\\Development\\PdfConverter\\PDF-to-XLSX Converter\\PDF-to-XLSX Converter.csproj": {}
   },
   "projects": {
-    "/Users/rjensen/Developer/GitHub/rjensen/AccountsReceivableVariance/PDF-to-XLSX Converter/PDF-to-XLSX Converter/PDF-to-XLSX Converter.csproj": {
+    "E:\\Development\\PdfConverter\\PDF-to-XLSX Converter\\PDF-to-XLSX Converter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rjensen/Developer/GitHub/rjensen/AccountsReceivableVariance/PDF-to-XLSX Converter/PDF-to-XLSX Converter/PDF-to-XLSX Converter.csproj",
+        "projectUniqueName": "E:\\Development\\PdfConverter\\PDF-to-XLSX Converter\\PDF-to-XLSX Converter.csproj",
         "projectName": "PDF-to-XLSX Converter",
-        "projectPath": "/Users/rjensen/Developer/GitHub/rjensen/AccountsReceivableVariance/PDF-to-XLSX Converter/PDF-to-XLSX Converter/PDF-to-XLSX Converter.csproj",
-        "packagesPath": "/Users/rjensen/.nuget/packages/",
-        "outputPath": "/Users/rjensen/Developer/GitHub/rjensen/AccountsReceivableVariance/PDF-to-XLSX Converter/PDF-to-XLSX Converter/obj/",
+        "projectPath": "E:\\Development\\PdfConverter\\PDF-to-XLSX Converter\\PDF-to-XLSX Converter.csproj",
+        "packagesPath": "C:\\Users\\junea\\.nuget\\packages\\",
+        "outputPath": "E:\\Development\\PdfConverter\\PDF-to-XLSX Converter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/rjensen/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\junea\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net472"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,7 +47,12 @@
               "version": "[5.5.13.1, )"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
         }
       }
     }
