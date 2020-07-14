@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Aqp9ITVEh91xhtBVoJL6IKlK0NpbRJBrTMHxbPXzr5dKNIpXNeem23KQwGyds9x/q/GOPBT83lkA6zG8hXkERA==",
+  "success": true,
+  "projectFilePath": "/Users/rjensen/Developer/GitHub/rjensen/AccountsReceivableVariance/PDF-to-XLSX Converter/PDF-to-XLSX Converter/PDF-to-XLSX Converter.csproj",
+  "expectedPackageFiles": [
+    "/Users/rjensen/.nuget/packages/itextsharp/5.5.13.1/itextsharp.5.5.13.1.nupkg.sha512",
+    "/Users/rjensen/.nuget/packages/microsoft.office.interop.excel/15.0.4795.1000/microsoft.office.interop.excel.15.0.4795.1000.nupkg.sha512"
+  ],
+  "logs": []
+}

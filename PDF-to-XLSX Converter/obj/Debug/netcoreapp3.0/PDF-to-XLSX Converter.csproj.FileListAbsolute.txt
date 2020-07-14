@@ -1,0 +1,13 @@
+/Users/rjensen/Developer/GitHub/rjensen/AccountsReceivableVariance/PDF-to-XLSX Converter/PDF-to-XLSX Converter/obj/Debug/netcoreapp3.0/PDF-to-XLSX Converter.csprojAssemblyReference.cache
+/Users/rjensen/Developer/GitHub/rjensen/AccountsReceivableVariance/PDF-to-XLSX Converter/PDF-to-XLSX Converter/obj/Debug/netcoreapp3.0/PDF-to-XLSX Converter.AssemblyInfoInputs.cache
+/Users/rjensen/Developer/GitHub/rjensen/AccountsReceivableVariance/PDF-to-XLSX Converter/PDF-to-XLSX Converter/obj/Debug/netcoreapp3.0/PDF-to-XLSX Converter.AssemblyInfo.cs
+/Users/rjensen/Developer/GitHub/rjensen/AccountsReceivableVariance/PDF-to-XLSX Converter/PDF-to-XLSX Converter/bin/Debug/netcoreapp3.0/PDF-to-XLSX Converter
+/Users/rjensen/Developer/GitHub/rjensen/AccountsReceivableVariance/PDF-to-XLSX Converter/PDF-to-XLSX Converter/bin/Debug/netcoreapp3.0/PDF-to-XLSX Converter.deps.json
+/Users/rjensen/Developer/GitHub/rjensen/AccountsReceivableVariance/PDF-to-XLSX Converter/PDF-to-XLSX Converter/bin/Debug/netcoreapp3.0/PDF-to-XLSX Converter.runtimeconfig.json
+/Users/rjensen/Developer/GitHub/rjensen/AccountsReceivableVariance/PDF-to-XLSX Converter/PDF-to-XLSX Converter/bin/Debug/netcoreapp3.0/PDF-to-XLSX Converter.runtimeconfig.dev.json
+/Users/rjensen/Developer/GitHub/rjensen/AccountsReceivableVariance/PDF-to-XLSX Converter/PDF-to-XLSX Converter/bin/Debug/netcoreapp3.0/PDF-to-XLSX Converter.dll
+/Users/rjensen/Developer/GitHub/rjensen/AccountsReceivableVariance/PDF-to-XLSX Converter/PDF-to-XLSX Converter/bin/Debug/netcoreapp3.0/PDF-to-XLSX Converter.pdb
+/Users/rjensen/Developer/GitHub/rjensen/AccountsReceivableVariance/PDF-to-XLSX Converter/PDF-to-XLSX Converter/bin/Debug/netcoreapp3.0/itextsharp.dll
+/Users/rjensen/Developer/GitHub/rjensen/AccountsReceivableVariance/PDF-to-XLSX Converter/PDF-to-XLSX Converter/obj/Debug/netcoreapp3.0/PDF-to-XLSX Converter.csproj.CopyComplete
+/Users/rjensen/Developer/GitHub/rjensen/AccountsReceivableVariance/PDF-to-XLSX Converter/PDF-to-XLSX Converter/obj/Debug/netcoreapp3.0/PDF-to-XLSX Converter.dll
+/Users/rjensen/Developer/GitHub/rjensen/AccountsReceivableVariance/PDF-to-XLSX Converter/PDF-to-XLSX Converter/obj/Debug/netcoreapp3.0/PDF-to-XLSX Converter.pdb

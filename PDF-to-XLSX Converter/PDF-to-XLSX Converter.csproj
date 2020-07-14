@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <RootNamespace>PDF_to_XLSX_Converter</RootNamespace>
+        <TargetFramework>net472</TargetFramework>
+        <LangVersion>default</LangVersion>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Content Include="..\..\..\..\..\..\Documents\ARKANSAS LIST UNCLAIMED.pdf">
+        <Link>ARKANSAS LIST UNCLAIMED.pdf</Link>
+      </Content>
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="iTextSharp" Version="5.5.13.1" />
+      <PackageReference Include="Microsoft.Office.Interop.Excel" Version="15.0.4795.1000" />
+    </ItemGroup>
+
+</Project>
